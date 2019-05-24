@@ -1,0 +1,14 @@
+.backgrounds {
+  background-color: deepskyblue
+}
+
+.slides {
+  background-color: white
+}
+
+#double-slashes {
+  color: white;
+  font-size: -webkit-xxx-large;
+  padding-left: 25px;
+  margin-top: 5px;
+}
